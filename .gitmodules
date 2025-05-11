@@ -1,14 +1,11 @@
 [submodule "Cargo"]
 path = Cargo
 url = ssh://git@github.com/CodeEditorLand/DependencySWCCargo.git
-ignore = all
 
 [submodule "NPM"]
 path = NPM
 url = ssh://git@github.com/CodeEditorLand/DependencySWCNPM.git
-ignore = all
 
 [submodule "Dependency"]
 path = Dependency
 url = ssh://git@github.com/CodeEditorLand/DependencySWCDependency.git
-ignore = all
